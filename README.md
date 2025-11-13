@@ -31,7 +31,6 @@
 🔹 **AI Juror–Project Matcher** – LLM-based matcher for academic jury assignments  <br/>
 🔹 **FMCSA Trip Planner** – Compliance-based trip planner for US truck drivers  <br/>
 🔹 **E-Governance Platform** – Digital reclamation system (Next.js + Django)  <br/>
-🔹 **Hydroponics Water Saver** – CV + IoT solution for agriculture (Hackathon)  <br/>
 
 👉 Check out more projects in my repositories!<br/>
 
